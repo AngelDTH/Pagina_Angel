@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset*"utf-8"> 
+    <title>Trabajo Final</title>
+    <Br>
+<BODY BGCOLOR=TURQUOISE>
+    <p><H1>ESCUELA PREPARATORIA OFICIAL NO 106</H1></p>
+    <p><H2>Almoloya del Rio</H2></p>
+    <Br>
+    <Br>
+    <Br>
+    <p> NOMBRE: <I><Strong>Angel Dosantos Tejas Herrera </Strong></I></p>
+    <Br>
+    <Br>
+
+<h1>BARCELONA</h1>
+    <p><U>Descripcion</p></U>
+    <p><U>El equipo Barcelona es uno de los clubes de fútbol más exitosos y reconocidos en el mundo. Fundado en 1899 en la ciudad de Barcelona, España, el equipo es conocido por su estilo de juego de posesión de balón y habilidad técnica.
+
+El Barcelona ha ganado numerosos títulos a lo largo de su historia, incluyendo 26 títulos de La Liga, 31 Copas del Rey y 5 Ligas de Campeones de la UEFA. Además, ha producido algunos de los mejores jugadores de fútbol del mundo, como Lionel Messi, Johan Cruyff, Xavi Hernández y Andrés Iniesta.
+
+El equipo juega sus partidos de local en el Camp Nou, uno de los estadios más grandes y emblemáticos del mundo, con capacidad para más de 99.000 espectadores. La afición del Barcelona es apasionada y leal, y el equipo es conocido por su filosofía de "Més que un club" (Más que un club), que refleja su papel en la cultura y la comunidad catalana.</U></p>
+   </head>
+   <body>
+   </body>
+   </HTML>
+
+
+<h1>IMAGEN EDITADA</h1>	
+<td> <img src="Angel.jpeg"></td>
+
+
+<h1>BOTONES CON IMAGEN</h1>
+<!DOCTYPE html>
+
+
+<html>
+
+<head>
+
+<meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+ 
+ <title>Hello, World!</title>
+
+</head>
+
+<body>
+ 
+ <h1>
+   
+ botones UwU
+                 
+ </h1>
+  
+  
+  
+
+<a href=" https://www.youtube.com/?gl=MX&hl=es=">
+  <img src="Inicio.Jpeg " alt="Descripción de la imagen" width="158" height="200">
+</a>
+  
+
+    
+
+<a href=" https://instagram.com/pedri?igshid=YmMyMTA2M2Y==">
+  <img src="Agua y Fuego.Jpeg " alt="Descripción de la imagen" width="200" height="200">
+</a>
+  
+  
+
+<a href=" https://www.facebook.com/angel.dossantos.773?mibextid=ZbWKwL=">
+  <img src="Home.Jpeg " alt="Descripción de la imagen" width="200" height="200">
+</a>
+  
+</body>
+</html>	
+
+
+<h1>VIDEO</h1>
+<video winth="320" height="240" controls>
+
+<source src="Angel video.mp4"> type="video/mp4"
+
+</video>
+<br>
+
+<h1>ILinea del tiempo</h1>	
+<td> <img src="Angel.L.jpeg"></td>
+
+<!DOCTYPE html>
+
+
+<html>
+
+<head>
+ 
+ <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" href="styles/style.css"/>
+  
+<title>tabla</title>
+
+</head>
+
+<body>
+  
+<h1>
+   
+  
+</h1>
+
+</body>
+
+
+<table  with=" 0" border="0">
+  
+<tr>
+    
+<td width="946" aling="center" bgcolor="#00CC66">
+      
+<h1> Escuela Preparatoria Oficial No. 106</h1>
+      
+<h2>Almoloya Del Rio </h2></td>
+  
+</tr>
+
+</table>
+
+<table width="0" boerder="0">
+  <tr>
+   
+<td width="150" height="44" aling="center">inicio</td>
+   
+ <td width="150" aling="center" >avanzar</td>
+      
+<td width="150" aling="center" >retroceder</td>
+         
+ <td width="150" aling="center" >correo</td>
+          
+<td width="150" aling="center" >video</td>
+        
+<td width="150" aling="center" >galeria</td>
+  
+</tr>
+
+</table>
+
+</body>
+
+</html>
+<center><td> <img src="Barcelona.jpeg"></td></center>	
+</a>
+</center>
+</br>
+</br>
+<center>Angel Dosantos Tejas Herrera</center>
